@@ -1,0 +1,9 @@
+digraph G {
+    node [shape=record];
+    nodo0 [label="{|Vuelo: V700\nNúmero de Registro: N70000\nModelo: Boeing 737\nEstado: Mantenimiento\nAero línea: AirlineX\nCapacidad: 180|}"];
+    nodo0 -> nodo1;
+    nodo1 -> nodo0;
+    nodo1 [label="{|Vuelo: V714\nNúmero de Registro: N70014\nModelo: Boeing 787\nEstado: Disponible\nAero línea: AirlineZ\nCapacidad: 242|}"];
+    nodo1 -> nodo0;
+    nodo0 -> nodo1;
+}

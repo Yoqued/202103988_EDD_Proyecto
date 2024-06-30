@@ -1,0 +1,18 @@
+digraph G {
+    "Girona" -> "Madrid" [label="23"];
+    "Madrid" -> "Barcelona" [label="21"];
+    "Madrid" -> "Girona" [label="26"];
+    "Barcelona" -> "Sevilla" [label="40"];
+    "Barcelona" -> "Zaragoza" [label="30"];
+    "Barcelona" -> "Madrid" [label="35"];
+    "Sevilla" -> "Bilbao" [label="24"];
+    "Sevilla" -> "Valencia" [label="11"];
+    "Bilbao" -> "Sevilla" [label="24"];
+    "Bilbao" -> "Granada" [label="17"];
+    "Granada" -> "Girona" [label="29"];
+    "Granada" -> "Córdoba" [label="16"];
+    "Granada" -> "Murcia" [label="9"];
+    "Murcia" -> "Madrid" [label="40"];
+    "Murcia" -> "Girona" [label="19"];
+    "Córdoba" -> "Bilbao" [label="22"];
+}

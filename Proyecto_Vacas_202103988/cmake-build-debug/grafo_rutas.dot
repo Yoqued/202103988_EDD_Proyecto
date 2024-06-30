@@ -1,0 +1,57 @@
+digraph GrafoRutas {
+  "Barcelona";
+  "Zaragoza";
+  "
+Barcelona";
+  "
+Córdoba";
+  "Bilbao";
+  "
+Granada";
+  "Madrid";
+  "
+Madrid";
+  "Murcia";
+  "Sevilla";
+  "
+Sevilla";
+  "Córdoba";
+  "Girona";
+  "
+Bilbao";
+  "Valencia";
+  "
+Murcia";
+  "Granada";
+  "
+Córdoba" -> "Bilbao" [label="22 km"];
+  "
+Murcia" -> "Girona" [label="19 km"];
+  "
+Murcia" -> "Madrid" [label="40 km"];
+  "
+Granada" -> "Murcia" [label="9 km"];
+  "
+Granada" -> "Córdoba" [label="16 km"];
+  "
+Granada" -> "Girona" [label="29 km"];
+  "
+Bilbao" -> "Granada" [label="17 km"];
+  "
+Bilbao" -> "Sevilla" [label="24 km"];
+  "
+Sevilla" -> "Valencia" [label="11 km"];
+  "
+Sevilla" -> "Bilbao" [label="24 km"];
+  "
+Barcelona" -> "Madrid" [label="35 km"];
+  "
+Barcelona" -> "Zaragoza" [label="30 km"];
+  "
+Barcelona" -> "Sevilla" [label="40 km"];
+  "
+Madrid" -> "Girona" [label="26 km"];
+  "
+Madrid" -> "Barcelona" [label="21 km"];
+  "Girona" -> "Madrid" [label="23 km"];
+}

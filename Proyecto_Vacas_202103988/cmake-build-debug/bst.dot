@@ -1,0 +1,16 @@
+digraph BST {
+"Hans Müller (305 horas)" -> "Jane Smith (100 horas)";
+"Hans Müller (305 horas)" -> "Carlos García (640 horas)";
+"Jane Smith (100 horas)" -> "Miguel Pereira (80 horas)";
+"Jane Smith (100 horas)" -> "Marta Rodríguez (150 horas)";
+"Miguel Pereira (80 horas)" -> "Jürgen Schmidt (70 horas)";
+"Jürgen Schmidt (70 horas)" -> "Emily Brown (40 horas)";
+"Marta Rodríguez (150 horas)" -> "Luca Rossi (120 horas)";
+"Marta Rodríguez (150 horas)" -> "Aisha Ahmed (175 horas)";
+"Aisha Ahmed (175 horas)" -> "Isabella Santos (215 horas)";
+"Isabella Santos (215 horas)" -> "Priya Sharma (190 horas)";
+"Isabella Santos (215 horas)" -> "Olga Ivanova (295 horas)";
+"Olga Ivanova (295 horas)" -> "Chen Wei (235 horas)";
+"Carlos García (640 horas)" -> "Fatima Al-Sayed (365 horas)";
+"Carlos García (640 horas)" -> "Thabo Ndlovu (999 horas)";
+}

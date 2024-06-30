@@ -1,0 +1,3 @@
+C:/Users/ser/Desktop/Proyecto_Vacas_202103988/cmake-build-debug/CMakeFiles/Proyecto_Vacas_202103988.dir
+C:/Users/ser/Desktop/Proyecto_Vacas_202103988/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ser/Desktop/Proyecto_Vacas_202103988/cmake-build-debug/CMakeFiles/rebuild_cache.dir
